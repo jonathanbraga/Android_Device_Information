@@ -41,6 +41,49 @@ namespace DeviceInformation
 			}
 		}
 		
+		public partial class Id
+		{
+			
+			// aapt resource value: 0x7f040004
+			public const int txtBrand = 2130968580;
+			
+			// aapt resource value: 0x7f040008
+			public const int txtFingerPrint = 2130968584;
+			
+			// aapt resource value: 0x7f040002
+			public const int txtID = 2130968578;
+			
+			// aapt resource value: 0x7f040001
+			public const int txtModel = 2130968577;
+			
+			// aapt resource value: 0x7f040007
+			public const int txtSdk = 2130968583;
+			
+			// aapt resource value: 0x7f040000
+			public const int txtSerial = 2130968576;
+			
+			// aapt resource value: 0x7f040005
+			public const int txtType = 2130968581;
+			
+			// aapt resource value: 0x7f040006
+			public const int txtUser = 2130968582;
+			
+			// aapt resource value: 0x7f040009
+			public const int txtVersionCode = 2130968585;
+			
+			// aapt resource value: 0x7f040003
+			public const int txtmanufacture = 2130968579;
+			
+			static Id()
+			{
+				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
+			}
+			
+			private Id()
+			{
+			}
+		}
+		
 		public partial class Layout
 		{
 			
