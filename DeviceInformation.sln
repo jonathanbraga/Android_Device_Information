@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeviceInformation", "DeviceInformation\DeviceInformation.csproj", "{DC65777B-CBC0-4E8B-A260-5753357E4791}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC65777B-CBC0-4E8B-A260-5753357E4791}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC65777B-CBC0-4E8B-A260-5753357E4791}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC65777B-CBC0-4E8B-A260-5753357E4791}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{DC65777B-CBC0-4E8B-A260-5753357E4791}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC65777B-CBC0-4E8B-A260-5753357E4791}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC65777B-CBC0-4E8B-A260-5753357E4791}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9D4A33A-D41D-43E3-9CF4-CF7BE825AE36}
+	EndGlobalSection
+EndGlobal
