@@ -12,3 +12,5 @@ txtSdk.Text = Build.VERSION.Sdk.ToString();
 txtFingerPrint.Text = Build.Fingerprint.ToString();
 txtVersionCode.Text = Build.VERSION.Release.ToString();
 ```
+
+![](figure/img.png)
